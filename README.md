@@ -36,7 +36,7 @@ This project provides a detailed financial analysis of Ferrari’s performance i
 
 ## Repository Contents
 
-- **Model Template**: [Excel Model Template]([Model_Template_-_RACE-_FINAL_V3.xlsx](https://docs.google.com/spreadsheets/d/1Z07MohRy9iDkIBy8RwRS32bwpENvq6pA/edit?usp=sharing&ouid=104016119677039284972&rtpof=true&sd=true))  
+- **Excel Model Template**: [Model_Template_-_RACE-_FINAL_V3.xlsx](https://docs.google.com/spreadsheets/d/1Z07MohRy9iDkIBy8RwRS32bwpENvq6pA/edit?usp=sharing&ouid=104016119677039284972&rtpof=true&sd=true)
   Contains revenue breakdowns, projections, and key financial metrics.
 
 - **Investment Report**: [Investment Report Document](Ferrari_investment_report.docx)  
