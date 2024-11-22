@@ -39,7 +39,7 @@ This project provides a detailed financial analysis of Ferrari’s performance i
 - **Excel Model Template**: [Model_Template_-_RACE-_FINAL_V3.xlsx](https://docs.google.com/spreadsheets/d/1Z07MohRy9iDkIBy8RwRS32bwpENvq6pA/edit?usp=sharing&ouid=104016119677039284972&rtpof=true&sd=true)
   - Contains revenue breakdowns, projections, and key financial metrics.
 
-- **Investment Report**: [Investment Report Document]([Ferrari_investment_report.docx](https://docs.google.com/document/d/1bIJmUixgQ2N2hvIhZEv4Gx4eElq9BEaJ/edit?usp=sharing&ouid=104016119677039284972&rtpof=true&sd=true))  
+- **Investment Report**: [Ferrari_investment_report.docx](https://docs.google.com/document/d/1bIJmUixgQ2N2hvIhZEv4Gx4eElq9BEaJ/edit?usp=sharing&ouid=104016119677039284972&rtpof=true&sd=true) 
   - Detailed insights into Ferrari’s revenue drivers, profitability, and market trends.
 
 - **Python Scripts**: Python scripts for financial calculations, automation, and data visualization.
